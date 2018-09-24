@@ -1,0 +1,68 @@
+h1 {
+    font-size:8em;
+    position: fixed;
+    bottom: -60px;
+    left: 40px;
+    color: yellow;
+     }
+ h2.location { 
+    font-size:40px;
+    position: fixed;
+    bottom: 40px;
+    left: 230px;
+    color:white;
+                    }
+ body{
+        background-image:url("https://i.imgur.com/OFNDXTU.jpg");
+             background-size:cover;
+                        } 
+ p{
+      color:white;
+      position:fixed;
+      left:80px;
+       font-weight:bold;
+      font-size:1.2em;
+                                  }
+p.info{
+      color:white;
+      position:fixed;
+      left:800px;
+    bottom:10px;
+              }
+p.location{
+        font-size:20px;
+        position: fixed;
+        bottom: 20px;
+        left: 250px;
+        color:gray;
+        opacity:0.7;
+           }
+button {
+        position:absolute;
+        bottom : 130px ; 
+        left: 230px;
+        font-size: 12px;
+        margin: 4px 2px;
+        padding: 3px 20px;
+        font-weight:500;
+          }
+div img{
+        position:fixed;
+        top:30px;
+        left:500px;
+         }
+p.img_att{
+          position:absolute;
+          top:20px;
+          left:550px;
+          font-size:10px;
+          font-family:serif;
+         }
+p.img_loc{
+          color:gray;
+          position:absolute;
+          top:38px;
+          left:550px;
+          font-size:8px;
+          font-family:serif;
+         }
