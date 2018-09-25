@@ -3,7 +3,7 @@ h1 {
     position: fixed;
     bottom: -60px;
     left: 40px;
-    color: black;
+    color: white;
      }
  h2.location { 
     font-size:40px;
@@ -23,11 +23,12 @@ h1 {
        font-weight:bold;
       font-size:1.2em;
                                   }
-p.info{
-      color:white;
+a{
+      color:black;
       position:fixed;
-      left:800px;
+      left:1000px;
     bottom:10px;
+    text-decoration:none;
               }
 p.location{
         font-size:20px;
