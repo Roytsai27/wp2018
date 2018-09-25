@@ -24,10 +24,11 @@ h1 {
       font-size:1.2em;
                                   }
 a{
-      color:black;
+      color:white;
       position:absolute;
-      left:800px;
+      left:1000px;
     bottom:10px;
+    font-size:40px;
     text-decoration:none;
               }
 p.location{
