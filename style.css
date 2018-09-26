@@ -26,11 +26,11 @@ h1 {
 a{
       color:white;
       position:absolute;
-      left:1300px;
-    bottom:30px;
+      left:1200px;
+    bottom:40px;
     font-size:20px;
     text-decoration:none;
-    border-bottom: 5px solid white;
+    border-bottom: 7px solid white;
               }
 p.location{
         font-size:20px;
