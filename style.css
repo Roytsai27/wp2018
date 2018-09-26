@@ -27,9 +27,10 @@ a{
       color:white;
       position:absolute;
       left:1000px;
-    bottom:20px;
+    bottom:25px;
     font-size:30px;
     text-decoration:none;
+    border-bottom: 5px solid white;
               }
 p.location{
         font-size:20px;
